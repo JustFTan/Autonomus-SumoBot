@@ -1,0 +1,2806 @@
+ 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Robot Sumo Siap!
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+68
+1
+0
+68
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+0
+0
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+121
+1
+0
+121
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+101
+1
+0
+101
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+118
+1
+0
+118
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+85
+1
+0
+85
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Robot Sumo Siap!
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.

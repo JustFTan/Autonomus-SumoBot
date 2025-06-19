@@ -1,0 +1,3782 @@
+),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Robot Sumo Siap!
+38
+1
+0
+38
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+38
+1
+0
+38
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+39
+1
+0
+39
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+38
+1
+0
+38
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+59
+1
+0
+59
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+98
+1
+0
+98
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+97
+1
+0
+97
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+97
+1
+0
+97
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+40
+1
+0
+40
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+37
+1
+0
+37
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+98
+1
+0
+98
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+98
+1
+1
+98
+Musuh terdeteksi! Counter kiri sebentar.
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+97
+1
+1
+97
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+97
+1
+1
+97
+Musuh terdeteksi! Maju!
+97
+1
+1
+97
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+99
+1
+1
+99
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+97
+1
+1
+97
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+99
+1
+1
+99
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+99
+1
+1
+99
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+99
+1
+1
+99
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+99
+1
+1
+99
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+99
+1
+1
+99
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+97
+1
+1
+97
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+97
+1
+1
+97
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+99
+1
+1
+99
+Musuh terdeteksi! Maju!
+99
+1
+1
+99
+Musuh terdeteksi! Maju!
+99
+1
+1
+99
+Musuh terdeteksi! Maju!
+99
+1
+1
+99
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+99
+1
+1
+99
+Musuh terdeteksi! Maju!
+99
+1
+1
+99
+Musuh terdeteksi! Maju!
+99
+1
+1
+99
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+99
+1
+1
+99
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+0
+98
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+99
+1
+0
+99
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+98
+1
+0
+98
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+56
+1
+0
+56
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+98
+1
+0
+98
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+97
+1
+1
+97
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+62
+1
+1
+62
+Musuh terdeteksi! Maju!
+49
+1
+1
+49
+Musuh terdeteksi! Maju!
+59
+1
+1
+59
+Musuh terdeteksi! Maju!
+49
+1
+1
+49
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+49
+1
+0
+49
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+98
+1
+0
+98
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+99
+1
+0
+99
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+98
+1
+0
+98
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+16
+1
+0
+16
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+16
+1
+0
+16
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+98
+1
+0
+98
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+98
+1
+0
+98
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+97
+1
+0
+97
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+50
+1
+0
+50
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+44
+1
+0
+44
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+98
+1
+0
+98
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+42
+1
+0
+42
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+60
+1
+0
+60
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+42
+1
+1
+42
+Musuh terdeteksi! Maju!
+42
+1
+1
+42
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+40
+1
+1
+40
+Musuh terdeteksi! Maju!
+40
+1
+1
+40
+Musuh terdeteksi! Maju!
+40
+1
+1
+40
+Musuh terdeteksi! Maju!
+40
+1
+1
+40
+Musuh terdeteksi! Maju!
+40
+1
+1
+40
+Musuh terdeteksi! Maju!
+40
+1
+1
+40
+Musuh terdeteksi! Maju!
+40
+1
+1
+40
+Musuh terdeteksi! Maju!
+40
+1
+1
+40
+Musuh terdeteksi! Maju!
+40
+1
+1
+40
+Musuh terdeteksi! Maju!
+40
+1
+1
+40
+Musuh terdeteksi! Maju!
+40
+1
+1
+40
+Musuh terdeteksi! Maju!
+40
+1
+1
+40
+Musuh terdeteksi! Maju!
+40
+1
+1
+40
+Musuh terdeteksi! Maju!
+40
+1
+1
+40
+Musuh terdeteksi! Maju!
+40
+1
+1
+40
+Musuh terdeteksi! Maju!
+40
+1
+1
+40
+Musuh terdeteksi! Maju!
+40
+1
+1
+40
+Musuh terdeteksi! Maju!
+40
+1
+1
+40
+Musuh terdeteksi! Maju!
+40
+1
+1
+40
+Musuh terdeteksi! Maju!
+40
+1
+1
+40
+Musuh terdeteksi! Maju!
+40
+1
+1
+40
+Musuh terdeteksi! Maju!
+40
+1
+1
+40
+Musuh terdeteksi! Maju!
+40
+1
+1
+40
+Musuh terdeteksi! Maju!
+40
+1
+1
+40
+Musuh terdeteksi! Maju!
+10
+1
+1
+10
+Musuh sangat dekat! Serang!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+44
+1
+1
+44
+Musuh terdeteksi! Maju!
+44
+1
+1
+44
+Musuh terdeteksi! Maju!
+44
+1
+1
+44
+Musuh terdeteksi! Maju!
+44
+1
+1
+44
+Musuh terdeteksi! Maju!
+44
+1
+1
+44
+Musuh terdeteksi! Maju!
+43
+1
+1
+43
+Musuh terdeteksi! Maju!
+43
+1
+1
+43
+Musuh terdeteksi! Maju!
+43
+1
+1
+43
+Musuh terdeteksi! Maju!
+44
+1
+1
+44
+Musuh terdeteksi! Maju!
+43
+1
+1
+43
+Musuh terdeteksi! Maju!
+44
+1
+1
+44
+Musuh terdeteksi! Maju!
+60
+1
+1
+60
+Musuh terdeteksi! Maju!
+60
+1
+1
+60
+Musuh terdeteksi! Maju!
+60
+1
+1
+60
+Musuh terdeteksi! Maju!
+60
+1
+1
+60
+Musuh terdeteksi! Maju!
+59
+1
+1
+59
+Musuh terdeteksi! Maju!
+59
+1
+1
+59
+Musuh terdeteksi! Maju!
+60
+1
+1
+60
+Musuh terdeteksi! Maju!
+59
+1
+1
+59
+Musuh terdeteksi! Maju!
+60
+1
+1
+60
+Musuh terdeteksi! Maju!
+42
+1
+1
+42
+Musuh terdeteksi! Maju!
+42
+1
+1
+42
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+15
+1
+1
+15
+Musuh sangat dekat! Serang!
+99
+1
+1
+99
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+99
+1
+1
+99
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+36
+1
+1
+36
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+38
+1
+1
+38
+Musuh terdeteksi! Counter kiri sebentar.
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+36
+1
+1
+36
+Musuh terdeteksi! Maju!
+36
+1
+1
+36
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+36
+1
+1
+36
+Musuh terdeteksi! Maju!
+36
+1
+1
+36
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+36
+1
+1
+36
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+36
+1
+1
+36
+Musuh terdeteksi! Counter kiri sebentar.
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+49
+1
+1
+49
+Musuh terdeteksi! Maju!
+36
+1
+1
+36
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+38
+1
+1
+38
+Musuh terdeteksi! Counter kiri sebentar.
+Musuh terdeteksi! Maju!
+35
+1
+1
+35
+Musuh terdeteksi! Maju!
+35
+1
+1
+35
+Musuh terdeteksi! Maju!
+35
+1
+1
+35
+Musuh terdeteksi! Maju!
+49
+1
+1
+49
+Musuh terdeteksi! Maju!
+49
+1
+1
+49
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+36
+1
+1
+36
+Musuh terdeteksi! Maju!
+36
+1
+1
+36
+Musuh terdeteksi! Maju!
+36
+1
+1
+36
+Musuh terdeteksi! Maju!
+36
+1
+1
+36
+Musuh terdeteksi! Maju!
+36
+1
+1
+36
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+35
+1
+1
+35
+Musuh terdeteksi! Maju!
+35
+1
+1
+35
+Musuh terdeteksi! Maju!
+36
+1
+1
+36
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+36
+1
+1
+36
+Musuh terdeteksi! Maju!
+36
+1
+1
+36
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+50
+1
+1
+50
+Musuh terdeteksi! Maju!
+51
+1
+1
+51
+Musuh terdeteksi! Maju!
+51
+1
+1
+51
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+49
+1
+1
+49
+Musuh terdeteksi! Maju!
+49
+1
+1
+49
+Musuh terdeteksi! Maju!
+49
+1
+1
+49
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+54
+1
+1
+54
+Musuh terdeteksi! Maju!
+49
+1
+1
+49
+Musuh terdeteksi! Maju!
+48
+1
+1
+48
+Musuh terdeteksi! Maju!
+46
+1
+1
+46
+Musuh terdeteksi! Maju!
+46
+1
+1
+46
+Musuh terdeteksi! Maju!
+46
+1
+1
+46
+Musuh terdeteksi! Maju!
+48
+1
+1
+48
+Musuh terdeteksi! Maju!
+48
+1
+1
+48
+Musuh terdeteksi! Maju!
+48
+1
+1
+48
+Musuh terdeteksi! Maju!
+49
+1
+1
+49
+Musuh terdeteksi! Maju!
+49
+1
+1
+49
+Musuh terdeteksi! Maju!
+49
+1
+1
+49
+Musuh terdeteksi! Maju!
+48
+1
+1
+48
+Musuh terdeteksi! Maju!
+48
+1
+1
+48
+Musuh terdeteksi! Maju!
+48
+1
+1
+48
+Musuh terdeteksi! Maju!
+48
+1
+1
+48
+Musuh terdeteksi! Maju!
+47
+1
+1
+47
+Musuh terdeteksi! Maju!
+47
+1
+1
+47
+Musuh terdeteksi! Maju!
+47
+1
+1
+47
+Musuh terdeteksi! Maju!
+47
+1
+1
+47
+Musuh terdeteksi! Maju!
+47
+1
+1
+47
+Musuh terdeteksi! Maju!
+48
+1
+1
+48
+Musuh terdeteksi! Maju!
+48
+1
+1
+48
+Musuh terdeteksi! Maju!
+48
+1
+1
+48
+Musuh terdeteksi! Maju!
+49
+1
+1
+49
+Musuh terdeteksi! Maju!
+49
+1
+1
+49
+Musuh terdeteksi! Maju!
+49
+1
+1
+49
+Musuh terdeteksi! Maju!
+48
+1
+1
+48
+Musuh terdeteksi! Maju!
+49
+1
+1
+49
+Musuh terdeteksi! Maju!
+49
+1
+1
+49
+Musuh terdeteksi! Maju!
+49
+1
+1
+49
+Musuh terdeteksi! Maju!
+99
+1
+1
+99
+Musuh terdeteksi! Maju!
+99
+1
+1
+99
+Musuh terdeteksi! Maju!
+49
+1
+1
+49
+Musuh terdeteksi! Maju!
+47
+1
+1
+47
+Musuh terdeteksi! Maju!
+47
+1
+1
+47
+Musuh terdeteksi! Maju!
+48
+1
+1
+48
+Musuh terdeteksi! Maju!
+46
+1
+1
+46
+Musuh terdeteksi! Maju!
+46
+1
+1
+46
+Musuh terdeteksi! Maju!
+48
+1
+1
+48
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+49
+1
+1
+49
+Musuh terdeteksi! Maju!
+48
+1
+1
+48
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+56
+1
+1
+56
+Musuh terdeteksi! Maju!
+49
+1
+1
+49
+Musuh terdeteksi! Maju!
+46
+1
+1
+46
+Musuh terdeteksi! Maju!
+47
+1
+1
+47
+Musuh terdeteksi! Maju!
+48
+1
+1
+48
+Musuh terdeteksi! Maju!
+48
+1
+1
+48
+Musuh terdeteksi! Maju!
+47
+1
+1
+47
+Musuh terdeteksi! Maju!
+47
+1
+1
+47
+Musuh terdeteksi! Maju!
+51
+1
+1
+51
+Musuh terdeteksi! Maju!
+47
+1
+1
+47
+Musuh terdeteksi! Maju!
+22
+1
+1
+22
+Musuh terdeteksi! Maju!
+49
+1
+1
+49
+Musuh terdeteksi! Maju!
+21
+1
+1
+21
+Musuh terdeteksi! Maju!
+49
+1
+1
+49
+Musuh terdeteksi! Maju!
+17
+1
+1
+17
+Musuh sangat dekat! Serang!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+97
+1
+1
+97
+Musuh terdeteksi! Maju!
+97
+1
+1
+97
+Musuh terdeteksi! Maju!
+97
+1
+1
+97
+Musuh terdeteksi! Maju!
+97
+1
+1
+97
+Musuh terdeteksi! Maju!
+97
+1
+1
+97
+Musuh terdeteksi! Maju!
+97
+1
+1
+97
+Musuh terdeteksi! Maju!
+97
+1
+1
+97
+Musuh terdeteksi! Maju!
+97
+1
+1
+97
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+97
+1
+1
+97
+Musuh terdeteksi! Maju!
+97
+1
+1
+97
+Musuh terdeteksi! Maju!
+97
+1
+1
+97
+Musuh terdeteksi! Maju!
+97
+1
+1
+97
+Musuh terdeteksi! Maju!
+98
+1
+1
+98
+Musuh terdeteksi! Maju!
+96
+1
+1
+96
+Musuh terdeteksi! Maju!
+95
+1
+1
+95
+Musuh terdeteksi! Maju!
+96
+1
+1
+96
+Musuh terdeteksi! Maju!
+96
+1
+1
+96
+Musuh terdeteksi! Maju!
+96
+1
+1
+96
+Musuh terdeteksi! Maju!
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+6
+1
+1
+6
+Musuh sangat dekat! Serang!
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+0
+1
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+15
+0
+0
+15
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+0
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+9
+0
+0
+9
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kanan
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+15
+1
+1
+15
+Musuh sangat dekat! Serang!
+11
+1
+1
+11
+Musuh sangat dekat! Serang!
+58
+1
+1
+58
+Musuh terdeteksi! Counter kiri sebentar.
+Musuh terdeteksi! Maju!
+62
+1
+1
+62
+Musuh terdeteksi! Maju!
+11
+1
+1
+11
+Musuh sangat dekat! Serang!
+61
+1
+1
+61
+Musuh terdeteksi! Maju!
+61
+1
+1
+61
+Musuh terdeteksi! Maju!
+61
+1
+1
+61
+Musuh terdeteksi! Maju!
+62
+1
+1
+62
+Musuh terdeteksi! Maju!
+61
+1
+1
+61
+Musuh terdeteksi! Maju!
+61
+1
+1
+61
+Musuh terdeteksi! Maju!
+61
+1
+1
+61
+Musuh terdeteksi! Maju!
+62
+1
+1
+62
+Musuh terdeteksi! Maju!
+62
+1
+1
+62
+Musuh terdeteksi! Maju!
+61
+1
+1
+61
+Musuh terdeteksi! Maju!
+1
+1
+-1
+Mencari musuh...
+Putar ke kanan.
+1
+0
+-1
+Garis terdeteksi! Mundur dan belok.
+Arah pencarian musuh selanjutnya: Kiri
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+13
+1
+1
+13
+Musuh sangat dekat! Serang!
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+87
+1
+1
+87
+Musuh terdeteksi! Counter kiri sebentar.
+Musuh terdeteksi! Maju!
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+88
+1
+1
+88
+Musuh terdeteksi! Counter kiri sebentar.
+Musuh terdeteksi! Maju!
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+35
+1
+1
+35
+Musuh terdeteksi! Counter kiri sebentar.
+Musuh terdeteksi! Maju!
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+36
+1
+1
+36
+Musuh terdeteksi! Counter kiri sebentar.
+Musuh terdeteksi! Maju!
+36
+1
+1
+36
+Musuh terdeteksi! Maju!
+35
+1
+1
+35
+Musuh terdeteksi! Maju!
+36
+1
+1
+36
+Musuh terdeteksi! Maju!
+36
+1
+1
+36
+Musuh terdeteksi! Maju!
+36
+1
+1
+36
+Musuh terdeteksi! Maju!
+36
+1
+1
+36
+Musuh terdeteksi! Maju!
+36
+1
+1
+36
+Musuh terdeteksi! Maju!
+36
+1
+1
+36
+Musuh terdeteksi! Maju!
+36
+1
+1
+36
+Musuh terdeteksi! Maju!
+36
+1
+1
+36
+Musuh terdeteksi! Maju!
+36
+1
+1
+36
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+35
+1
+1
+35
+Musuh terdeteksi! Maju!
+35
+1
+1
+35
+Musuh terdeteksi! Maju!
+35
+1
+1
+35
+Musuh terdeteksi! Maju!
+35
+1
+1
+35
+Musuh terdeteksi! Maju!
+35
+1
+1
+35
+Musuh terdeteksi! Maju!
+35
+1
+1
+35
+Musuh terdeteksi! Maju!
+36
+1
+1
+36
+Musuh terdeteksi! Maju!
+36
+1
+1
+36
+Musuh terdeteksi! Maju!
+36
+1
+1
+36
+Musuh terdeteksi! Maju!
+36
+1
+1
+36
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+86
+1
+1
+86
+Musuh terdeteksi! Counter kiri sebentar.
+Musuh terdeteksi! Maju!
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+35
+1
+1
+35
+Musuh terdeteksi! Counter kiri sebentar.
+Musuh terdeteksi! Maju!
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+63
+1
+1
+63
+Musuh terdeteksi! Counter kiri sebentar.
+Musuh terdeteksi! Maju!
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+36
+1
+1
+36
+Musuh terdeteksi! Counter kiri sebentar.
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+38
+1
+1
+38
+Musuh terdeteksi! Counter kiri sebentar.
+Musuh terdeteksi! Maju!
+36
+1
+1
+36
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+36
+1
+1
+36
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+36
+1
+1
+36
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+40
+1
+1
+40
+Musuh terdeteksi! Maju!
+40
+1
+1
+40
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+41
+1
+1
+41
+Musuh terdeteksi! Maju!
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+38
+1
+1
+38
+Musuh terdeteksi! Counter kiri sebentar.
+Musuh terdeteksi! Maju!
+42
+1
+1
+42
+Musuh terdeteksi! Maju!
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+38
+1
+1
+38
+Musuh terdeteksi! Counter kiri sebentar.
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+40
+1
+1
+40
+Musuh terdeteksi! Maju!
+40
+1
+1
+40
+Musuh terdeteksi! Maju!
+40
+1
+1
+40
+Musuh terdeteksi! Maju!
+44
+1
+1
+44
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+39
+1
+1
+39
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+37
+1
+1
+37
+Musuh terdeteksi! Maju!
+62
+1
+1
+62
+Musuh terdeteksi! Maju!
+62
+1
+1
+62
+Musuh terdeteksi! Maju!
+63
+1
+1
+63
+Musuh terdeteksi! Maju!
+86
+1
+1
+86
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+38
+1
+1
+38
+Musuh terdeteksi! Maju!
+50
+1
+1
+50
+Musuh terdeteksi! Maju!
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.
+1
+1
+-1
+Mencari musuh...
+Putar ke kiri.

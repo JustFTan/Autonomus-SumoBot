@@ -1,0 +1,2721 @@
+0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+Robot Sumo Siap!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 65
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 101
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 101
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 46
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 66
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 66
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 50
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 49
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 49
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 49
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 50
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 100
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 101
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 50
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 50
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 85
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 120
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 55
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 55
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 54
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 53
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 53
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 53
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 88
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 74
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 77
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 118
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 52
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 124
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 109
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 38
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 66
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 89
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 84
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 85
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 121
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 88
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 84
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 90
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 110
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 59
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 58
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 57
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 84
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 52
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 106
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 56
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 55
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 56
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 119
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 82
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 65
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 65
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 66
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 53
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 56
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 58
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 60
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 61
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 96
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 80
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 64
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 64
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 117
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 83
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 67
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 51
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 52
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 118
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 120
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 53
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 53
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 53
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 53
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 54
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 89
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 72
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 56
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 108
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 57
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 56
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 90
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 84
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 50
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 49
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 49
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 50
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 48
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 117
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 101
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 52
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: 88
+MUSUH TERDETEKSI! DEKATI!
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
+IR Kanan: 0 | IR Kiri: 0 | Jarak Musuh: -1
+MENCARI MUSUH... PUTAR DI TEMPAT
